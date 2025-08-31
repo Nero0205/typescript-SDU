@@ -1,7 +1,7 @@
 # MCP TypeScript SDK ![NPM Version](https://img.shields.io/npm/v/%40modelcontextprotocol%2Fsdk) ![MIT licensed](https://img.shields.io/npm/l/%40modelcontextprotocol%2Fsdk)
 
 ## Table of Contents
-
+      
 - [Overview](#overview)
 - [Installation](#installation)
 - [Quickstart](#quick-start)
